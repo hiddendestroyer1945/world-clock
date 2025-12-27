@@ -32,7 +32,7 @@ sudo apt install python3 python3-pip git python3-venv -y
 Clone your project from GitHub (replace with your actual URL) and enter the directory:
 Bash
 
-git clone [https://github.com/hiddendestroyer/world-clock.git](https://github.com/hiddendestroyer/world-clock.git)
+git clone https://github.com/hiddendestroyer1945/world-clock.git,
 cd world-clock
 
 3. Setup Virtual Environment (Best Practice)
